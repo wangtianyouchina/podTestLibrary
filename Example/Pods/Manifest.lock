@@ -1,0 +1,17 @@
+PODS:
+  - FBSnapshotTestCase (1.8.1)
+  - IOS_BaseProject (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - IOS_BaseProject (from `../`)
+
+EXTERNAL SOURCES:
+  IOS_BaseProject:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 3dc3899168747a0319c5278f5b3445c13a6532dd
+  IOS_BaseProject: 992ab269350bac50f9197a1588536dde011bf19a
+
+COCOAPODS: 0.36.1

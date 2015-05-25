@@ -10,18 +10,18 @@
 Pod::Spec.new do |s|
   s.name             = "IOS_BaseProject"
   s.version          = "0.1.0"
-  s.summary          = "A short description of IOS_BaseProject."
+  s.summary          = "Just Testing"
   s.description      = <<-DESC
-                       An optional longer description of IOS_BaseProject
+                       Test private Podspec.
 
                        * Markdown format.
                        * Don't worry about the indent, we strip it!
                        DESC
-  s.homepage         = "https://github.com/<GITHUB_USERNAME>/IOS_BaseProject"
+  s.homepage         = "https://github.com/wangtianyouchina/IOS_BaseProject"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "wang.tianyou" => "wangtianyou@xiaoma.cn" }
-  s.source           = { :git => "https://github.com/<GITHUB_USERNAME>/IOS_BaseProject.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/wangtianyouchina/IOS_BaseProject.git", :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.platform     = :ios, '7.0'
